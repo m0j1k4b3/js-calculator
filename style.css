@@ -1,0 +1,34 @@
+body {
+    background-color: #FAE8E0;
+}
+
+#display {
+    border-radius: 20px;
+    position: relative;
+    left: 550px;
+    font-size: 70px;
+    background-color: #B6E2D3;
+    padding: 10px;
+    text-align: right;
+    vertical-align: middle;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    height: 80px;
+    width: 400px;
+}
+
+.buttons {
+    position: relative;
+    left: 550px;
+    border-radius: 40px;
+    background-color: #EF7C8E;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+#ac {
+    width: 307px;
+}
